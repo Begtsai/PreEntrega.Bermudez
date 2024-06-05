@@ -1,0 +1,14 @@
+[
+    {
+        "id": "Laptops",
+        "name": "Laptops"     
+    },
+    {
+        "id": "Monitores",
+        "name": "Monitores"
+    },
+    {
+        "id": "Cámaras",
+        "name": "Cámaras"
+    }
+]

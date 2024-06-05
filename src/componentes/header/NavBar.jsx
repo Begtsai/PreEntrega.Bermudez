@@ -1,4 +1,5 @@
 import React from 'react'
+import Carrito from './Carrito'
 
 export const NavBar = () => {
   return (
@@ -13,11 +14,11 @@ export const NavBar = () => {
                 <div className="navbar-nav">
                     <a className="nav-link active" aria-current="page" href="#">Alquilar</a>
                     <a className="nav-link" href="#">Contacto</a>
-                    <a className="nav-link" href="#">🛒1</a>
                 </div>
-                </div>
+              </div> 
+              <Carrito />
             </div>
-        </nav>
+          </nav>
     </div>
   )
 }

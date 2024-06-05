@@ -1,0 +1,46 @@
+[
+    {
+      "id": 1,
+      "name": "Laptop Dell XPS 15",
+      "image": "https://example.com/images/laptop-dell-xps-15.jpg",
+      "price": 50,
+      "description": "Potente laptop para trabajo y entretenimiento, pantalla de alta resolución, procesador Intel Core i7, 16 GB de RAM, SSD de 512 GB.",
+      "category": {
+        "id": "Laptops",
+        "name": "Laptops"
+      }
+    },
+    {
+      "id": 2,
+      "name": "MacBook Pro 13 pulgadas",
+      "image": "https://example.com/images/macbook-pro-13.jpg",
+      "price": 60,
+      "description": "Elegante y potente MacBook Pro con chip M1, pantalla Retina de 13 pulgadas, 8 GB de RAM, SSD de 256 GB.",
+      "category": {
+        "id": "Laptops",
+        "name": "Laptops"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Monitor LG UltraWide 34 pulgadas",
+      "image": "https://example.com/images/monitor-lg-ultrawide-34.jpg",
+      "price": 40,
+      "description": "Monitor UltraWide para una experiencia inmersiva, pantalla IPS de 34 pulgadas, resolución Quad HD, tecnología AMD FreeSync.",
+      "category": {
+        "id": "Monitores",
+        "name": "Monitores"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Cámara Canon EOS Rebel T7i",
+      "image": "https://example.com/images/camera-canon-eos-rebel-t7i.jpg",
+      "price": 35,
+      "description": "Cámara réflex digital con sensor CMOS de 24.2 megapíxeles, pantalla táctil de ángulo variable, grabación de video Full HD.",
+      "category": {
+        "id": "Cámaras",
+        "name": "Cámaras"
+      }
+    }
+  ]
