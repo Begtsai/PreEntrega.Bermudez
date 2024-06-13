@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import { ItemList } from './ItemList';
+import datos from '../datos/equipos.json';
 
 export const ItemListContainer = () => {
 
